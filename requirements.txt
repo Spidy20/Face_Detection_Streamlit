@@ -2,3 +2,4 @@ numpy
 streamlit
 Pillow
 opencv-python-headless
+streamlit-webrtc
