@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run App.py
+web: sh setup.sh && streamlit run https://raw.githubusercontent.com/whitphx/streamlit-webrtc-example/main/app.py
