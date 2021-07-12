@@ -3,8 +3,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/HTSDryllx0Y)
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/yt_thumb.jpg">
+## [Watch Tutorial for this project](https://youtu.be/feRxDgmI2eo)
+<img src="https://github.com/Spidy20/Face_Detection_Streamlit/blob/master/thumb.jpg">
 
 ## Usage:-
 
@@ -27,8 +27,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t1.png">
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t2.PNG">
+<img src="https://github.com/Spidy20/Face_Detection_Streamlit/blob/master/t1.PNG">
+<img src="https://github.com/Spidy20/Face_Detection_Streamlit/blob/master/t2.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
