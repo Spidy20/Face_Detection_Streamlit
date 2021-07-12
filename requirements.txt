@@ -1,5 +1,5 @@
-numpy
-streamlit
+opencv-contrib-python
 Pillow
-opencv-python-headless
+numpy
 streamlit-webrtc
+streamlit
