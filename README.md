@@ -6,6 +6,8 @@
 ## [Watch Tutorial for this project](https://youtu.be/feRxDgmI2eo)
 <img src="https://github.com/Spidy20/Face_Detection_Streamlit/blob/master/thumb.jpg">
 
+## Live Demo of [Web-App](https://fd20.herokuapp.com/)
+
 ## Usage:-
 
 - Clone my repository.
